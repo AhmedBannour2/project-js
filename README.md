@@ -1,3 +1,6 @@
+Ahmed Bannour
+Groupe 6 
+
 # To-Do List App
 
 Une application de gestion de tâches (To-Do List) développée avec **React** et **Vite.js**. Cette application permet de gérer facilement vos tâches quotidiennes en les ajoutant, en les supprimant et en les affichant dans une interface simple et fluide.
